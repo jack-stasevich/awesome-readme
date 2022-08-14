@@ -144,7 +144,7 @@ Personally and by standard, you should use a [issue template](https://github.com
 You could also add contact details for people to get in touch with you regarding your project.
 
 # License
-[(Back to top)](#table-of-contents)
+[(Back to top)](Project Title)
 
 Adding the license to README is a good practice so that people can easily refer to it.
 
